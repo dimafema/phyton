@@ -1,0 +1,2 @@
+Es un archivo que he creado a través de python
+otra linea para ver como funciona
