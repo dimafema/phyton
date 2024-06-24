@@ -1,2 +1,2 @@
 # phyton
-Código phyton edudacional
+Código phyton edudacional, ejercicios explicativos de iniciación python. 
